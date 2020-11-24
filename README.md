@@ -3,7 +3,7 @@ Introduction au marDown :smile:
 
 ##  Sous-titre en h2
 
-** Phrase en gras **
+__Phrase en gras__
 * Item li 1
 * Item li 2
 * Item li 3
@@ -26,7 +26,7 @@ consol.log('string');
     * Item B  
 
 - [x] 1.0.1 : Ajout d'une protection anti-csrf
-- []  1.0.1 : En attente d'integration d'une protection anti-sql-injection     
+- [ ]  1.0.1 : En attente d'integration d'une protection anti-sql-injection     
 
 HEAD 1 | HEAD 2
 ---------- | -----------
